@@ -7,3 +7,8 @@ print(short)
 
 character1 = name[1]
 print(character1)
+
+print(last_name[-4:-1])
+print(last_name[3:6])
+
+print(name[0:4])
